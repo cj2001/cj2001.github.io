@@ -17,3 +17,10 @@
 - ["Create a graph database in Neo4j using Python"](https://towardsdatascience.com/create-a-graph-database-in-neo4j-using-python-4172d40f89c4) (Feb, 2021)
 - ["Importing CSV Files in Neo4j"](https://towardsdatascience.com/importing-csv-files-in-neo4j-f3553f1a76cf) (Jan, 2021)
 - ["How to get started with the Graph Data Science Library of Neo4j"](https://towardsdatascience.com/how-to-get-started-with-the-new-graph-data-science-library-of-neo4j-3c8fff6107b) (Nov, 2020)
+
+## Courses developed
+
+- [Working with Data in a Connected World: the Power of Graph Data Science](https://www.youtube.com/watch?v=BiFKNAs4UQs), remote workshop to PyData Global, October, 2021
+- [Creating a Knowledge Graph with Neo4j: A Simple Machine Learning Approach](https://dev.neo4j.com/kg_workshop), September, 2021 live rerun of NODES 2021 remote, interactive workshop with updated content
+- [Creating a Knowledge Graph with Neo4j: A Simple Machine Learning Approach](https://neo4j.brand.live/c/2021nodes-training-friday), June 2021 live remote workshop at Neo4j NODES 2021
+- [Going from Text to Knowledge Graphs: Putting Natural Language Processing and Graph Databases to Work](https://odsc.com/speakers/going-from-text-to-knowledge-graphs-putting-natural-language-processing-and-graph-databases-to-work/), remote workshop at the 2021 Open Data Science Conference East
