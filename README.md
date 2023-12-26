@@ -7,7 +7,7 @@
 - [Legacy Code Documenter (WIP)](http://24.199.116.158:8501/)
 A ChatGPT bot written to provide documentation for legacy code snippets (presently working for COBOL and C).
 
-### [Blog Posts](assets/pages/blog_posts.md)
+### [Blog Posts](./assets/pages/blog_posts.md)
 
 - ["Not getting what you expect out of your data science team?  The “upside-down approach” to creating the team and why it is doomed to fail](https://www.linkedin.com/pulse/getting-what-you-expect-out-your-data-science-team-dr-clair-sullivan-ftbkc%3FtrackingId=0ZjseqW1TYmL2wYiBUxm%252BQ%253D%253D/?trackingId=0ZjseqW1TYmL2wYiBUxm%2BQ%3D%3D) (Dec, 2023)
 - ["When SQL is Not the Best Answer: Identifying 'Graph-y' Problems and When Graphs Can Help"](https://opendatascience.com/when-sql-is-not-the-best-answer-identifying-graph-y-problems-and-when-graphs-can-help/) (March, 2022)
