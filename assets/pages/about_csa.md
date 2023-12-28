@@ -14,7 +14,7 @@ It can be fixed.  Yet 72% of survey respondents in NewVantage Partners’ 2021 B
 
 This is why I created this company.  I want to work with you and your organization to either set your data science function up avoiding the "upside-down approach" or help you fix it if it is there.  
 
-If this is of interest to you, please email me (clair@clairsullivan.com) or [schedule a time with me](https://calendly.com/clair-j-sullivan/30min)) to discuss your needs.
+If this is of interest to you, please email me (clair@clairsullivan.com) or [schedule a time with me](https://calendly.com/clair-j-sullivan/30min) to discuss your needs.
 
 ### Special note
 
