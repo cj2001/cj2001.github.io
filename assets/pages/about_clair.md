@@ -9,7 +9,13 @@ I have been working in data science, machine learning, and related fields of sig
 ### Contact info
 
 Email: clair@clairsullivan.com
+
+[Schedule a time on my calendar](https://calendly.com/clair-j-sullivan/30min)
+
 [LinkedIn](https://www.linkedin.com/in/dr-clair-sullivan-09914342/)
+
 [Twitter](https://twitter.com/CJLovesData1): @CJLovesData1
+
 [GitHub](https://github.com/cj2001): @cj2001
+
 [Resume, speaker bio, CV](https://github.com/cj2001/my_resume)
